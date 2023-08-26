@@ -4,8 +4,6 @@
 
 Web / IT project programming language / tool / package / library / technology / stack icon / logo collection and markdown / HTML generator.
 
-It helps you list your stack, which is the set of tools & technologies used by your project or favored by you.
-
 Examples:
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
@@ -38,4 +36,8 @@ Examples:
 |:---:|:---:|:---:|
 | <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="NPM" width="40px" height="40px"></a> | `npm start` | `npm run start:deno` |
 | <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="40px" height="40px"></a> | `yarn start` | `yarn start:deno` |
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro91004850&show_icons=true&locale=en&layout=compact" alt="leandro91004850" /></p>
+
 
