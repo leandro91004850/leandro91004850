@@ -39,5 +39,3 @@ Examples:
 | <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="NPM" width="40px" height="40px"></a> | `npm start` | `npm run start:deno` |
 | <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="40px" height="40px"></a> | `yarn start` | `yarn start:deno` |
 
-
-Scripts are under [MIT](MIT)
